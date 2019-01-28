@@ -1,6 +1,6 @@
 Kate Morris
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a Makers Academy Boot Camp Alumni (not yet, clearly to you Makers people reading this!). My journey to this position has been circumnagigated from a simpilar position, via a number of seeminly unrelated but satisfying careers, back to the job I love the most. Following mt Masters in Safety Critial Systems I was a successful programmer for many years. A carear break to start a family was intamndem have . Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
