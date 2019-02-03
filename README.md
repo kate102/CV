@@ -64,12 +64,14 @@ Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept
 • Primarily writing bond and equity trading systems for the London financial markets
 • Programming, C, C++, data manipulation
 
+--------------------------------------------------------------------------------------------------
 # Interests
-Skiing - Snow & Water
-Baking & Running - To undo each other
-Interiors Design & Property Development - Habit forming
+•	Skiing - Snow & Water.
+•	Baking & Running - To undo each other.
+•	Interiors Design & Property Development - Habit forming.
 
 # Contact
-Github: kate102
-Twitter: @katemorris102
-Codewars http://www.codewars.com/users/kate102
+•	Github: kate102
+•	Twitter: @katemorris102
+•	Codewars http://www.codewars.com/users/kate102
+
