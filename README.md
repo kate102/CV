@@ -1,8 +1,8 @@
 ## Kate Morris
 
-I am a Makers Academy Boot Camp Alumni, Feb 2019 cohort. My journey to this position has been circumnavigated from a similar position, via a number of seemingly unrelated but, equally satisfying careers, hopefully back to the job I love the most. 
+I am a Makers Academy Boot Camp Alumni, Feb 2019 cohort. My journey to this position has been circumnavigated from a similar position, via a number of seemingly unrelated but, equally satisfying careers, back to the job I love the most. 
 
-Following my M.Sc. in Formal Methods of Software Design [Safety Critical Systems] I was a successful programmer for many years. Due to my fear of boredom, a career break to start my family was also utilised build a substantial property portfolio. As my children gained independence, this skill set led to the creation of a successful and award-winning kitchen design company [www.102interiors.co.uk]. The smooth implementation package I had developed overtime for the kitchen design business meant that any demands were purely financial or political. I no longer felt challenged decided that now was the time to explore returning to programming.
+Following my M.Sc. in Formal Methods of Software Design [Safety Critical Systems] I was a successful programmer for many years. Due to my fear of boredom, a career break to start my family was also utilised build a substantial property portfolio. As my children gained independence, this skill set led to the creation of a successful and award-winning kitchen design company [www.102interiors.co.uk]. The smooth implementation package I had developed overtime for the kitchen design business meant that any demands were purely financial or political. I no longer felt challenged and decided that now was the time to explore returning to programming.
 
 The Makers Academy Boot Camp has brought me up to speed with how the industry operates now and I’m look for a role that utilizes the broad project skill I have built up, the technical skills that I have gained as well as the ones I have given a spring clean. It is important to me to work in an collaborative, diverse environment where there is mutual respect and vested interest in identifying and achieving the project goals
 
@@ -51,30 +51,30 @@ Dundee University - BSc. Pure Mathematics and Computing
 ## Experience
 
 
-# 102 Interiors London - Oct 2011 - 
+## 102 Interiors London - Oct 2011 - 
 I singlehandedly created a bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4. From the first kitchen in October 2011 we were fully booked for up to 24 months in advance. I encouraged a positive collaborative environment where project planning was key, and each trade was respected and given the time and materials to complete the task that they were given. Testing and checking and implementing ongoing maintenance solutions meant that each phase could be successfully signed off before the next phase started. We won customer service awards from Houzz, build quality awards from London Build Control and were featured in magazines such as Elle Decoration.  
 
-# Financial Times Information - Senior Programmer Sept 1997 – March 2001
+## Financial Times Information - Senior Programmer Sept 1997 – March 2001
 • Senior Programmer - Primarily using C++, SQL and Perl scripting to receive financial data from worldwide sources, parse and store, manipulation and analysis for the world financial markets.
 • Responsible for system design, coding, documentation, client meetings, systems testing and implementation
 
-# fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
+## fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
 • Senior programmer
 • Primarily writing bond and equity trading systems for the London financial markets, 
 • Programming,C, C++, smalltalk, SQL, data manipulation, including Front End and Back End development
 
-# Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
+## Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
 • From junior programmer
 • Primarily writing bond and equity trading systems for the London financial markets
 • Programming, C, C++, data manipulation
 
 --------------------------------------------------------------------------------------------------
-# Interests
+## Interests
 •	Skiing - Snow & Water.
 •	Baking & Running - To undo each other.
 •	Interiors Design & Property Development - Habit forming.
 
-# Contact
+## Contact
 •	Github: kate102
 •	Twitter: @katemorris102
 •	Codewars http://www.codewars.com/users/kate102
