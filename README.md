@@ -16,8 +16,8 @@ As the site manager for the kitchen design business I ran teams of up to 20 cont
 All of my roles have had an analytical element. I thrive on mathematical challenges from developing the code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
 
 
-## Detail & Design
-In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisafctory as a beautiful solution that only manages a subset of the requirements. While this is obvious with a kitchen it is also true in terms of data presentation and of the read ability of the code.
+## Design & Detail Person
+In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisfactory as a beautiful solution that only manages a subset of the requirements. While this is obvious with a kitchen it is also true in terms of data presentation, and of the read ability of the code.
 
 
 
