@@ -1,6 +1,6 @@
 ## Kate Morris
 
-I am a Makers Academy Boot Camp Alumni (not yet, clearly: to you Makers people reading this!). My journey to this position has been circumnavigated from a similar position, via a number of seemingly unrelated but, equally satisfying careers, hopefully back to the job I love the most. 
+I am a Makers Academy Boot Camp Alumni, Feb 2019 cohort. My journey to this position has been circumnavigated from a similar position, via a number of seemingly unrelated but, equally satisfying careers, hopefully back to the job I love the most. 
 
 Following my M.Sc. in Formal Methods of Software Design [Safety Critical Systems] I was a successful programmer for many years. Due to my fear of boredom, a career break to start my family was also utilised build a substantial property portfolio. As my children gained independence, this skill set led to the creation of a successful and award-winning kitchen design company [www.102interiors.co.uk]. The smooth implementation package I had developed overtime for the kitchen design business meant that any demands were purely financial or political. I no longer felt challenged decided that now was the time to explore returning to programming.
 
