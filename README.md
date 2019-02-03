@@ -4,18 +4,13 @@ I am a Makers Academy Boot Camp Alumni (not yet, clearly: to you Makers people r
 
 Following my M.Sc. in Formal Methods of Software Design [Safety Critical Systems] I was a successful programmer for many years. Due to my fear of boredom, a career break to start my family was also utilised build a substantial property portfolio. As my children gained independence, this skill set led to the creation of a successful and award-winning kitchen design company [Name of company or website?]. The smooth implementation package I had developed overtime for the kitchen design business meant that any demands were purely financial or political. I no longer felt challenged decided that now was the time to explore returning to programming.
 
-The Makers Academy Boot Camp has brought me up to speed with how the industry operates now and I’m look for a role that utilizes the broad project skill I have built up, the technical skills that I have gained as well as the ones I have given a spring clean. It is  important to me to work in an collaborative, diverse environment where there is mutual respect and vested interest in identifying and achieving the prooject goals
+The Makers Academy Boot Camp has brought me up to speed with how the industry operates now and I’m look for a role that utilizes the broad project skill I have built up, the technical skills that I have gained as well as the ones I have given a spring clean. It is important to me to work in an collaborative, diverse environment where there is mutual respect and vested interest in identifying and achieving the project goals
 
 
 ## Skills
 
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+# Excellent communicator
+As the site manager for the kitchen design business I ran teams of up to 20 contractors for any one job. It was vital that no man-days were lost due to poor communication, so I introduced management tools more usually seen in a corporate world. We all had a project planning app on our phones and we installed a, low tech, white board on site for clients and contractors to highlight issues and post reminders. Every Friday night I would email each client with a Friday-Night-Update. This FNU would detail what had been achieved during the week, any problems and the proposed solutions. It would also list what the work was for the coming week, anything I needed from the client and any inconvenience that they might expect.
 
 #### Another Skill
 
