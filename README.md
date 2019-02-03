@@ -4,6 +4,8 @@ I am a Makers Academy Boot Camp Alumni (not yet, clearly: to you Makers people r
 
 Following my M.Sc. in Formal Methods of Software Design [Safety Critical Systems] I was a successful programmer for many years. Due to my fear of boredom, a career break to start my family was also utilised build a substantial property portfolio. As my children gained independence, this skill set led to the creation of a successful and award-winning kitchen design company [Name of company or website?]. The smooth implementation package I had developed overtime for the kitchen design business meant that any demands were purely financial or political. I no longer felt challenged decided that now was the time to explore returning to programming.
 
+The Makers Academy Boot Camp has brought me up to speed with how the industry operates now and I’m look for a role that utilizes the broad project skill I have built up, the technical skills that I have gained as well as the ones I have given a spring clean. It is  important to me to work in an collaborative, diverse environment where there is mutual respect and vested interest in identifying and achieving the prooject goals
+
 
 ## Skills
 
@@ -24,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+
 
 #### Makers Academy (start_date to end_date)
 
@@ -37,17 +39,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+## Further Education
+Sept 1992 -July 1993
+University of London, Queen Mary & Westfield College - MSc. Formal Methods of Software Engineering
+Masters degree in the formal mathematical specification and qualification of safety critical systems. Concentrating primarily on flight control systems.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Sept 1987 -July 1991
+Dundee University - BSc. Pure Mathematics and Computing
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Financial Times Information - Senior Programmer Sept 1997 – March 2001
+• Senior Programmer - Primarily using C++, SQL and Perl scripting to receive financial data from worldwide sources, parse and store, manipulation and analysis for the world financial markets.
+• Responsible for system design, coding, documentation, client meetings, systems testing and implementation
+
+fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
+• Senior programmer
+• Primarily writing bond and equity trading systems for the London financial markets, 
+• Programming,C, C++, smalltalk, SQL, data manipulation, including Front End and Back End development
+
+Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
+• From junior programmer
+• Primarily writing bond and equity trading systems for the London financial markets
+• Programming, C, C++, data manipulation
