@@ -1,4 +1,4 @@
-Kate Morris
+## Kate Morris
 
 I am a Makers Academy Boot Camp Alumni (not yet, clearly: to you Makers people reading this!). My journey to this position has been circumnavigated from a similar position, via a number of seemingly unrelated but, equally satisfying careers, hopefully back to the job I love the most. 
 
@@ -9,7 +9,7 @@ The Makers Academy Boot Camp has brought me up to speed with how the industry op
 
 ## Skills
 
-# Excellent communicator
+## Excellent communicator
 As the site manager for the kitchen design business I ran teams of up to 20 contractors for any one job. It was vital that no man-days were lost due to poor communication, so I introduced management tools more usually seen in a corporate world. We all had a project planning app on our phones and we installed a, low tech, white board on site for clients and contractors to highlight issues and post reminders. Every Friday night I would email each client with a Friday-Night-Update. This FNU would detail what had been achieved during the week, any problems and the proposed solutions. It would also list what the work was for the coming week, anything I needed from the client and any inconvenience that they might expect.
 
 #### Another Skill
