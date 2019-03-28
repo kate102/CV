@@ -3,7 +3,7 @@
 
 
 Inline-style: 
-![https://medium.com/@kate.morris.new](https://github.com/kate102/CV/Monogram.png "Blog")
+![https://medium.com/@kate.morris.new](https://github.com/kate102/CV/blob/master/Monogram.png "Blog")
 
 I am a full stack developer and recent graduate from [Makers Academy](https://makers.tech/). I have both a BSc. and MSc. in computing and several years as a professional programmer writing trading systems. In addition, until recently, I ran my own design and build company [102 Interiors London](www.102interiors.co.uk).
 
