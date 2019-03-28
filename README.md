@@ -18,6 +18,7 @@
 [Interests ](#interests)
 
 </div>
+
 * Full stack developer and recent graduate from [Makers Academy](https://makers.tech/)
 * BSc. and MSc. in computing
 * Several years as a professional programmer writing trading systems
