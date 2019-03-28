@@ -1,4 +1,23 @@
-## Kate Morris
+<h1 align="center">Kate Morris</h1>
+<p align="center">
+<a href="https://twitter.com/kateMorris102">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@kate.morris.new">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/kate-morris-a3962943/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<div align="center">
+    
+[Background ](#background) | 
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Experience ](#experience) | 
+[Education ](#education) | 
+[Interests ](#interests)
+
+</div>
 ---
 
 PROJECTS | EXPERIENCE | EDUCATION| HOBBIES | NETWORKS
@@ -10,7 +29,7 @@ PROJECTS | EXPERIENCE | EDUCATION| HOBBIES | NETWORKS
 
 I have chosen to return to the tech industry because I am find construction, both virtual and physical, immensly satisfying and want to be in an industry that continues to grow.
 
-## Skills
+# PROJECTS
 
 ## Excellent Communicator
 As the site manager for the kitchen design business I ran teams of up to 20 contractors for any one job. It was vital that no man-days were lost due to poor communication, so I introduced management tools more usually seen in a corporate world. We all had a project planning app on our phones and we installed a, low tech, white board on site for clients and contractors to highlight issues and post reminders. Every Friday night I would email each client with a Friday-Night-Update. This FNU would detail what had been achieved during the week, any problems and the proposed solutions. It would also list what the work was for the coming week, anything I needed from the client and any inconvenience that they might expect.
@@ -81,5 +100,5 @@ I singlehandedly created a bespoke kitchen design and build company incorporatin
 •	Github: kate102
 •	Twitter: @katemorris102
 •	Codewars http://www.codewars.com/users/kate102
-•	Blog [https://medium.com/@kate.morris.new]
+•	Blog []
 
