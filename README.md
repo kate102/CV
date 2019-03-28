@@ -19,7 +19,7 @@
 
 </div>
 
-* Full stack developer and recent graduate from [Makers Academy](https://makers.tech/)
+* Junior full stack developer and recent graduate from [Makers Academy](https://makers.tech/)
 * BSc. and MSc. in computing
 * Several years as a professional programmer writing trading systems
 * Director and lead designer of design and build company [102 Interiors London](www.102interiors.co.uk).
@@ -28,7 +28,6 @@
 
 I have chosen to return to the tech industry form a number of reasons but primarily because I find construction, both virtual and physical, immesnly satisfying. In addition, I enjoy learning and want to be in an enviroment that continues to grow. 
 
----
 ## Projects
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
@@ -39,7 +38,7 @@ I have chosen to return to the tech industry form a number of reasons but primar
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
----
+
 ## Skills
 
 ### Excellent Communicator
@@ -57,7 +56,6 @@ All of the roles that I have held have required unit testing. Practical examples
 ### Enthusiast
 From starting a new project to learning to water ski, I grab every challenge with both hands. I decided change careers and take a leap into wherever Makers Academy took me because I need to be stimulated and hate to be bored.
 
----
 ## Education
 
 ### Makers Academy  Feb 2019 - Apr 2019
@@ -67,7 +65,7 @@ Sept 1992 - July 1993
 Masters degree in the formal mathematical specification and qualification of safety critical systems. Concentrating primarily on flight control systems.
 
 ### Dundee University - BSc. Pure Mathematics and Computing Sept 1987 - July 1991
----
+
 ## Experience
 
 ### 102 Interiors London - Oct 2011 - Feb 2019
@@ -87,8 +85,7 @@ I singlehandedly created a bespoke kitchen design and build company incorporatin
 • Primarily writing bond and equity trading systems for the London financial markets
 • Programmng in C and C++
 
----
 ## Interests
-•	Skiing - Snow & Water.
-•	Baking & Running - To undo each other.
-•	Interiors Design & Property Development - Habit forming.
+- Skiing - Snow & Water.
+- Baking & Running - To undo each other.
+- Interiors Design & Property Development - Habit forming.
