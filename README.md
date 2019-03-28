@@ -1,6 +1,6 @@
 ## Kate Morris
 
-I am a full stack developer and recent graduate from [Makers Academy https://makers.tech/][Makers Academy https://makers.tech/ "Makers Academy]
+I am a full stack developer and recent graduate from [Makers Academy https://makers.tech/] [https://makers.tech/ "Makers Academy"]
 
 ## Skills
 
