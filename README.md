@@ -1,10 +1,9 @@
 ## Kate Morris
-https://medium.com/@kate.morris.new
-Reference-style: 
-![/Users/student/Monogram.png]
+
+
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![https://medium.com/@kate.morris.new](https://github.com/kate102/CV/Monogram.png "Blog")
 
 I am a full stack developer and recent graduate from [Makers Academy](https://makers.tech/). I have both a BSc. and MSc. in computing and several years as a professional programmer writing trading systems. In addition, until recently, I ran my own design and build company [102 Interiors London](www.102interiors.co.uk).
 
