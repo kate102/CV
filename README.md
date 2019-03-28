@@ -1,7 +1,7 @@
 ## Kate Morris
 https://medium.com/@kate.morris.new
 Reference-style: 
-![alt text][c:/Downloads/Monogram.png]
+![alt text][/Users/student/Monogram.png]
 
 I am a full stack developer and recent graduate from [Makers Academy](https://makers.tech/). I have both a BSc. and MSc. in computing and several years as a professional programmer writing trading systems. In addition, until recently, I ran my own design and build company [102 Interiors London](www.102interiors.co.uk).
 
