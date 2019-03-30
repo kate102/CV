@@ -26,7 +26,7 @@
 
 ### Background
 
-I have chosen to return to the tech industry form a number of reasons but primarily because I find construction, both virtual and physical, immensely satisfying. In addition, I enjoy learning and want to be in an environment that continues to grow. 
+I chose to leave the tech industry to concentrate on my family and am now at a point in my life when I am able to return. I find construction, both virtual and physical, immensely satisfying but feel that I have reached a would like to be in an industry that continues to grow. 
 
 ### Projects
 
