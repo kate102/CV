@@ -11,7 +11,6 @@
 <div align="center">
     
 [Background ](#background) | 
-[Projects ](#projects) | 
 [Skills ](#skills) | 
 [Education ](#education) | 
 [Experience ](#experience) | 
@@ -22,39 +21,40 @@
 * Junior full stack developer and recent graduate from [Makers Academy](https://makers.tech/)
 * BSc. and MSc. in computing
 * Several years as a professional programmer writing trading systems
-* Director and lead designer of design and build company [102 Interiors London](www.102interiors.co.uk).
+* Director and lead designer of design and build company [102 Interiors London](http://www.102interiors.co.uk/).
 
 ### Background
 
-I chose to leave the tech industry to concentrate on my family and am now at a point in my life when I am able to return. I find construction, both virtual and physical, immensely satisfying but feel that I have reached a would like to be in an industry that continues to grow. 
-
-### Projects
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+I chose to leave the tech industry to concentrate on my family, and set up a kitchen design and build company so that I could work from home. I am now at a point in my life when I can become a fulltime developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
 
 ### Skills
 
+## Technical Skills
+
+* On the course I have written projects in `Ruby` using the `Rails` Framework, `JavaScript` using `JQuery`.
+* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in `Java` and `Pyton`.
+* Views are written in `HTML` and `CSS` and communication with the database is carried out using `sql`.
+* `GitHub` is our repository, we use `Travis` for continous integration `(CI)` and `Heruko` for deployment. 
+* `TDD` is carried out using `RSpec`, `Sinatra` or `Jasmine`.
+* We follow `Agile` to ensure that we work effectively in the teams  with daily `Standups` and `Retros` and two day `Sprints`, `timeboxing` problems as they arise. 
+* Project management is achieved using `Trello`. 
+
+## Soft Skills
+
 #### Excellent Communicator
-As the site manager for the kitchen design business I ran teams of up to 20 contractors for any one job. It was vital that no man-days were lost due to poor communication, so I introduced management tools more usually seen in a corporate world. We all had a project planning app on our phones and we installed a, low tech, white board on site for clients and contractors to highlight issues and post reminders. Every Friday night I would email each client with a Friday-Night-Update. This FNU would detail what had been achieved during the week, any problems and the proposed solutions. It would also list what the work was for the coming week, anything I needed from the client and any inconvenience that they might expect.
+For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic contraution industry so I had to find ways to ensure that the trades worked in harmony and that every one knew what everyone else was doing and when. I introduced white boards, `Asana` project managment app and made lots of tea.
 
 #### Analytical Thinker
-All of my roles have had an analytical element. I thrive on mathematical challenges from developing the code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
+All of my roles have had an analytical element. I thrive on mathematical challenges from developing clean code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
 
 #### Design & Detail Person
-In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisfactory as a beautiful solution that only manages a subset of the requirements. While this is obvious with a kitchen it is also true in terms of data presentation, and of the read ability of the code.
+In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisfactory as a beautiful solution that only manages a subset of the requirements. 
 
 #### Thorough Implementer
-All of the roles that I have held have required unit testing. Practical examples are easy to relate to, not testing the under-floor heating before laying the marble floor could be an expensive mistake, but at least you would know where the problem was. Knowing that each part of a development, code or otherwise, has been tested thoroughly makes me calm and confident.
+All of the roles that I have held have required thorough testing. Practical examples are easy to relate to, not testing the under-floor heating before laying the marble floor could be an expensive mistake. Knowing that each part of a development, code or otherwise, has been tested thoroughly makes me calm and confident.
 
 #### Enthusiast
-From starting a new project to learning to water ski, I grab every challenge with both hands. I decided change careers and take a leap into wherever Makers Academy took me because I need to be stimulated and hate to be bored.
+From starting a new project to learning to water ski, I grab every challenge with both hands. 
 
 ### Education
 
@@ -69,21 +69,22 @@ Masters degree in the formal mathematical specification and qualification of saf
 ### Experience
 
 #### 102 Interiors London - Oct 2011 - Feb 2019
-I singlehandedly created a bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4. From the first kitchen in October 2011 we were fully booked for up to 24 months in advance. I encouraged a positive collaborative environment where project planning was key, and each trade was respected and given the time and materials to complete the task that they were given. Testing and checking and implementing ongoing maintenance solutions meant that each phase could be successfully signed off before the next phase started. We won customer service awards from Houzz, build quality awards from London Build Control and were featured in magazines such as Elle Decoration.  
+I singlehandedly created an award winning bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
 
 #### Financial Times Information - Senior Programmer Sept 1997 – March 2001
-• Senior Programmer - Primarily using C++, SQL and Perl scripting to receive financial data from worldwide sources, parse and store, manipulation and analysis for the world financial markets.
-• Responsible for system design, coding, documentation, client meetings, systems testing and implementation
+• Senior Programmer
+• Primarily using `C++`, `SQL` and `Perl` scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyise to generate reports.
+• In addition I was involved in system design and client meetings, systems testing and implementation.
 
 #### fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
-• Senior programmer
+• Mid-Level programmer
 • Primarily writing bond and equity trading systems for the London financial markets, 
-• Programming,C, C++, smalltalk, SQL, data manipulation, including Front End and Back End development
+• Programming in `C`, `C++`, `smalltalk`, `SQL`, data manipulation, including Front End and Back End development
 
 #### Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
-• From junior programmer
+• Junior programmer
 • Primarily writing bond and equity trading systems for the London financial markets
-• Programmng in C and C++
+• Programmng in `C` and `C++`
 
 ### Interests
 - Skiing - Snow & Water.
