@@ -29,7 +29,7 @@ I chose to leave the tech industry to concentrate on my family, and set up a kit
 
 ### Skills
 
-## Technical Skills
+#### Technical Skills
 
 * On the course I have written projects in `Ruby` using the `Rails` Framework, `JavaScript` using `JQuery`.
 * To test my ability to pick up a new languages quickly, I wrote FizzBuzz in `Java` and `Pyton`.
@@ -39,21 +39,21 @@ I chose to leave the tech industry to concentrate on my family, and set up a kit
 * We follow `Agile` to ensure that we work effectively in the teams  with daily `Standups` and `Retros` and two day `Sprints`, `timeboxing` problems as they arise. 
 * Project management is achieved using `Trello`. 
 
-## Soft Skills
+#### Soft Skills
 
-#### Excellent Communicator
+##### Excellent Communicator
 For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic contraution industry so I had to find ways to ensure that the trades worked in harmony and that every one knew what everyone else was doing and when. I introduced white boards, `Asana` project managment app and made lots of tea.
 
-#### Analytical Thinker
+##### Analytical Thinker
 All of my roles have had an analytical element. I thrive on mathematical challenges from developing clean code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
 
-#### Design & Detail Person
+##### Design & Detail Person
 In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisfactory as a beautiful solution that only manages a subset of the requirements. 
 
-#### Thorough Implementer
+##### Thorough Implementer
 All of the roles that I have held have required thorough testing. Practical examples are easy to relate to, not testing the under-floor heating before laying the marble floor could be an expensive mistake. Knowing that each part of a development, code or otherwise, has been tested thoroughly makes me calm and confident.
 
-#### Enthusiast
+##### Enthusiast
 From starting a new project to learning to water ski, I grab every challenge with both hands. 
 
 ### Education
