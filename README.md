@@ -18,14 +18,14 @@
 
 </div>
 
-* Junior full stack developer and recent graduate from [Makers Academy](https://makers.tech/)
+* Trainee full stack developer at [Makers Academy](https://makers.tech/)
 * BSc. and MSc. in computing
-* Several years as a professional programmer writing trading systems
+* Several years as a professional programmer writing bond and equity trading systems
 * Director and lead designer of design and build company [102 Interiors London](http://www.102interiors.co.uk/).
 
 ### Background
 
-I chose to leave the tech industry to concentrate on my family, and set up a kitchen design and build company so that I could work from home. I am now at a point in my life when I can become a fulltime developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
+I chose to leave the tech industry to concentrate on my family, and set up a kitchen design and build company so that I could balance the demands of a satisfying working working career and a young family. I am now at a point in my life when I can become a fulltime developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
 
 ### Skills
 
@@ -35,7 +35,7 @@ I chose to leave the tech industry to concentrate on my family, and set up a kit
 * To test my ability to pick up a new languages quickly, I wrote FizzBuzz in `Java` and `Pyton`.
 * Views are written in `HTML` and `CSS` and communication with the database is carried out using `sql`.
 * `GitHub` is our repository, we use `Travis` for continous integration `(CI)` and `Heruko` for deployment. 
-* `TDD` is carried out using `RSpec`, `Sinatra` or `Jasmine`.
+* `TDD` is carried out using `RSpec`, `Selenium`, `Sinatra` or `Jasmine`.
 * We follow `Agile` to ensure that we work effectively in the teams  with daily `Standups` and `Retros` and two day `Sprints`, `timeboxing` problems as they arise. 
 * Project management is achieved using `Trello`. 
 
