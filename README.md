@@ -25,7 +25,7 @@
 
 ### Background
 
-I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working working career and a young family I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a fulltime developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
+I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working working career and a young family I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
 
 ### Skills
 
@@ -42,7 +42,7 @@ I reluctantly chose to leave the tech industry after the birth of my second chil
 #### Soft Skills
 
 ##### Excellent Communicator
-For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic contraution industry so I had to find ways to ensure that the trades worked in harmony and that every one knew what everyone else was doing and when. I introduced white boards, `Asana` project managment app and made lots of tea.
+For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic construction industry so I had to find ways to ensure that the trades worked in harmony and that everyone knew what everyone else was doing and when. I introduced whiteboards, `Asana` project managment app and made lots of tea.
 
 ##### Analytical Thinker
 All of my roles have had an analytical element. I thrive on mathematical challenges from developing clean code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
@@ -51,7 +51,7 @@ All of my roles have had an analytical element. I thrive on mathematical challen
 In code and kitchen design there can be a conflict between aesthetic and functionality. It is important that both are respected as both are achievable with some thought. An ugly but functioning environment is as unsatisfactory as a beautiful solution that only manages a subset of the requirements. 
 
 ##### Thorough Implementer
-All of the roles that I have held have required thorough testing. Practical examples are easy to relate to, not testing the under-floor heating before laying the marble floor could be an expensive mistake. Knowing that each part of a development, code or otherwise, has been tested thoroughly makes me calm and confident.
+All of the roles that I have held have required thorough testing. Practical examples are easy to relate to, not testing the underfloor heating before laying the marble floor could be an expensive mistake. Knowing that each part of a development, code or otherwise, has been tested thoroughly makes me calm and confident.
 
 ##### Enthusiast
 From starting a new project to learning to water ski, I grab every challenge with both hands. 
@@ -69,11 +69,11 @@ Masters degree in the formal mathematical specification and qualification of saf
 ### Experience
 
 #### 102 Interiors London - Oct 2011 - Feb 2019
-I singlehandedly created an award winning bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
+I single handedly created an award winning bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
 
 #### Financial Times Information - Senior Programmer Sept 1997 – March 2001
 • Senior Programmer
-• Primarily using `C++`, `SQL` and `Perl` scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyise to generate reports.
+• Primarily using `C++`, `SQL` and `Perl` scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyze to generate reports.
 • In addition I was involved in system design and client meetings, systems testing and implementation.
 
 #### fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
@@ -84,7 +84,7 @@ I singlehandedly created an award winning bespoke kitchen design and build compa
 #### Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
 • Junior programmer
 • Primarily writing bond and equity trading systems for the London financial markets
-• Programmng in `C` and `C++`
+• Programming in `C` and `C++`
 
 ### Interests
 - Skiing - Snow & Water.
