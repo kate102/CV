@@ -31,9 +31,9 @@ I reluctantly chose to leave the tech industry after the birth of my second chil
 
 #### Technical Skills
 
-* On the course I was involved in group projects to mimic Facebook in **Ruby` using the `Rails` Framework, and to mimic AitBnB in`JavaScript` using `JQuery`.
-* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java` and [Python](https://github.com/kate102/FizzBuzz-python) and fully `TDDed` a Bowling Score Card kata in `Java`, recording my screen throughout.
-* I completed a fulls stack project to store book marks, using Views are written in `HTML` and `CSS` and communication with the database is carried out using `sql`.
+* On the course I was involved in group projects to mimic Facebook in **Ruby` using the `Rails` Framework, and to mimic AirBnB in`JavaScript` using `JQuery`.
+* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java` and `Python` and fully `TDDed` a Bowling Score Card kata in `Java`, recording my screen throughout. [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)
+* I completed a full stack project to store book marks, using Views are written in `HTML` and `CSS` and communication with the database is carried out using `sql`.
 * `GitHub` is our repository, we use `Travis` for continous integration `(CI)` and `Heruko` for deployment. 
 * `TDD` is carried out using `RSpec`, `Selenium`, `Sinatra` or `Jasmine`.
 * We follow `Agile` to ensure that we work effectively in the teams  with daily `Standups` and `Retros` and two day `Sprints`, `timeboxing` problems as they arise. 
