@@ -14,7 +14,7 @@
 [Skills ](#skills) | 
 [Education ](#education) | 
 [Experience ](#experience) | 
-[Interests ](#interests
+[Interests ](#interests)
 
 </div>
 
@@ -25,14 +25,14 @@
 
 ### Background
 
-I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working working career and a young family I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
+I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working working career and a young family, I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
 
 ### Skills
 
 #### Technical Skills
 
 * On the course I was involved in group projects to mimic Facebook in **Ruby** using the **Rails** Framework, and to mimic AirBnB in **JavaScript** using **JQuery**.
-* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java` and `Python` and fully `TDDed` a Bowling Score Card kata in `Java`, recording my screen throughout. This recording the [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this recording covers [Rest of play to Spare Frame]()
+* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java` and `Python` and fully `TDDed` a Bowling Score Card kata in `Java`, recording my screen throughout. This recording the [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this recording covers [Rest of play to Spare Frame](https://www.dropbox.com/s/b2cow6t1kgw5wls/Frame_Basic_Spare_Games.mov?dl=0)
 * I completed a full stack project to store book marks, using **Ruby, **HTML** and **CSS` and communication with the database is carried out using `sql`.
 * `GitHub` is our repository, we use `Travis` for continous integration `(CI)` and `Heruko` for deployment. 
 * `TDD` is carried out using `RSpec`, `Selenium`, `Sinatra` or `Jasmine`.
