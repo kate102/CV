@@ -18,30 +18,30 @@
 
 </div>
 
-* Recent graduate full stack developer at [Makers Academy](https://makers.tech/)
+* Recently completed full stack development course with [Makers Academy](https://makers.tech/)
 * BSc.in Maths & Computing and MSc. in Computing
 * Several years as a professional programmer writing bond and equity trading systems
 * Director and lead designer of design and build company [102 Interiors London](http://www.102interiors.co.uk/).
 
 ### Background
 
-I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working career and a young family, I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again. In order to learn the skills that are relevant to the industry as it is now, I attended a coding bootcamp. I find construction and innovation, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again. 
+I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working career and a young family, I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full-time developer again. In order to learn the skills that are relevant to the industry as it is now, I attended a coding boot camp. I find construction and innovation, both virtual and physical, immensely satisfying and look forward to working in an ever-evolving environment again.  
 
 
 ### Skills
 
 #### Technical Skills
 
-* On the course I was involved in group projects to mimic Facebook in **Ruby** using the **Rails** Framework TDDing using **Rspec**, with the front end in **HTML** & **CSS** and the backend in **SQL**. We used **Travis** & **Heruko** for CI and **rubocop** as a linter.
-* Another project was to mimic AirBnB in **JavaScript** using **JQuery** and **Node.js**. Testing was with **jasmine** and **cypress**, we used **ESLint** to clean the code and **Trello** to manage progress.
-* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java** and **Python** and fully TDDed a Bowling Score Card kata in **Java**, recording my screen throughout. This recording the [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this recording covers [Rest of play to Spare Frame](https://www.dropbox.com/s/b2cow6t1kgw5wls/Frame_Basic_Spare_Games.mov?dl=0)
+* On the course I was involved in group projects to mimic [Facebook](https://github.com/kate102/acebook_team_404) in **Ruby** using the **Rails** Framework TDDing using **Rspec**, with the front end in **HTML** & **CSS** and the backend in **SQL**. We used **Travis** & **Heruko** for CI and **rubocop** as a linter.
+* Another project was to mimic [AirBnB](https://github.com/kate102/Makersbnb) in **JavaScript** using **JQuery** and **Node.js**. Testing was with **jasmine** and **cypress**, we used **ESLint** to clean the code and **Trello** to manage progress.
+* To test my ability to pick up new languages quickly, I wrote a Bowling Scorecard kata in **Java** using **JUnit** to TDD.  I recorded my screen throughout so that I could check my process. The first part of the game is covered in this recording of the[Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this second recording covers [Rest of play to Spare Frame](https://www.dropbox.com/s/b2cow6t1kgw5wls/Frame_Basic_Spare_Games.mov?dl=0)
 * My final project was a Machine Learning project. We reconfigured a Connect 4 game written in **python** to use **OpenAI gym** to generate training data. We then used **Keras** to build the model in **TensorFlow** to train the smart computer, Ulima, to win. We used **pytest** to TDD the code. This is a video of our [Final Project Presentation](https://www.dropbox.com/s/x9ghds1lem5aiui/Final_Project.mov?dl=0).
 All my code is here on [GitHub](https://github.com/kate102) or [CodeWars](https://www.codewars.com/users/kate102)
 
 #### Soft Skills
 
 ##### Excellent Communicator
-For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic construction industry so I had to find ways to ensure that the trades worked in harmony and that everyone knew what everyone else was doing and when. I introduced whiteboards, **Asana** project managment app and made lots of tea.
+For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic construction industry so I had to find ways to ensure that the tradesmen worked in harmony and that everyone knew what everyone else was doing and when. I introduced whiteboards, **Asana** project managment app and made lots of tea.
 
 ##### Analytical Thinker
 All of my roles have had an analytical element. I thrive on mathematical challenges from developing clean code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
@@ -61,14 +61,14 @@ From starting a new project to learning to water ski, I grab every challenge wit
 
 #### University of London, Queen Mary & Westfield College - MSc. Formal Methods of Software Engineering
 Sept 1992 - July 1993
-Masters degree in the formal mathematical specification and qualification of safety critical systems. Concentrating primarily on flight control systems.
+Masters degree in the formal mathematical specification and qualification of safety critical systems. Concentrating  on flight control systems.
 
 #### Dundee University - BSc. Pure Mathematics and Computing Sept 1987 - July 1991
 
 ### Experience
 
 #### 102 Interiors London - Oct 2011 - Feb 2019
-I single handedly created an award winning bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
+I single-handedly created a bespoke kitchen design and build company. Drawing on my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
 
 #### Financial Times Information - Senior Programmer Sept 1997 – March 2001
 • Mid - Senior Programmer
