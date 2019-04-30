@@ -72,7 +72,7 @@ Masters degree in the formal mathematical specification and qualification of saf
 I single handedly created an award winning bespoke kitchen design and build company incorporating my experience in customer service as a graduate trainee for John Lewis, my attention to detail as a programmer and my extensive experience and contacts from property development. I designed and built the website and established a workable, repeatable model based on exclusivity, communication and my experience of being a working mother of 4.
 
 #### Financial Times Information - Senior Programmer Sept 1997 – March 2001
-• Senior Programmer
+• Mid - Senior Programmer
 • Primarily using `C++`, `SQL` and `Perl` scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyze to generate reports.
 • In addition I was involved in system design and client meetings, systems testing and implementation.
 
