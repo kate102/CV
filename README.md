@@ -18,31 +18,30 @@
 
 </div>
 
-* Trainee full stack developer at [Makers Academy](https://makers.tech/)
-* BSc. and MSc. in computing
+* Recent graduate full stack developer at [Makers Academy](https://makers.tech/)
+* BSc.in Maths & Computing and MSc. in Computing
 * Several years as a professional programmer writing bond and equity trading systems
 * Director and lead designer of design and build company [102 Interiors London](http://www.102interiors.co.uk/).
 
 ### Background
 
-I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working working career and a young family, I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again and have attended a coding bootcamp to learn the skills that are relevant to the industry as it is now. I find construction, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again.
+I reluctantly chose to leave the tech industry after the birth of my second child. So that I could balance the demands of a satisfying working career and a young family, I set up a kitchen design and build company that I ran from home. I am now at a point in my life when I can become a full time developer again. In order to learn the skills that are relevant to the industry as it is now, I attended a coding bootcamp. I find construction and innovation, both virtual and physical, immensely satisfying and look forward to working in an ever evolving environment again. 
+
 
 ### Skills
 
 #### Technical Skills
 
-* On the course I was involved in group projects to mimic Facebook in **Ruby** using the **Rails** Framework, and to mimic AirBnB in **JavaScript** using **JQuery**.
-* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java` and `Python` and fully `TDDed` a Bowling Score Card kata in `Java`, recording my screen throughout. This recording the [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this recording covers [Rest of play to Spare Frame](https://www.dropbox.com/s/b2cow6t1kgw5wls/Frame_Basic_Spare_Games.mov?dl=0)
-* I completed a full stack project to store book marks, using **Ruby, **HTML** and **CSS` and communication with the database is carried out using `sql`.
-* `GitHub` is our repository, we use `Travis` for continous integration `(CI)` and `Heruko` for deployment. 
-* `TDD` is carried out using `RSpec`, `Selenium`, `Sinatra` or `Jasmine`.
-* We follow `Agile` to ensure that we work effectively in the teams  with daily `Standups` and `Retros` and two day `Sprints`, `timeboxing` problems as they arise. 
-* Project management is achieved using `Trello`. 
+* On the course I was involved in group projects to mimic Facebook in **Ruby** using the **Rails** Framework TDDing using **Rspec**, with the front end in **HTML** & **CSS** and the backend in **SQL**. We used **Travis** & **Heruko** for CI and **rubocop** as a linter.
+* Another project was to mimic AirBnB in **JavaScript** using **JQuery** and **Node.js**. Testing was with **jasmine** and **cypress**, we used **ESLint** to clean the code and **Trello** to manage progress.
+* To test my ability to pick up a new languages quickly, I wrote FizzBuzz in **Java** and **Python** and fully TDDed a Bowling Score Card kata in **Java**, recording my screen throughout. This recording the [Gutter Game](https://www.dropbox.com/s/5domwacxobr7k65/Gutter%20Game%20Java.mov?dl=0)and this recording covers [Rest of play to Spare Frame](https://www.dropbox.com/s/b2cow6t1kgw5wls/Frame_Basic_Spare_Games.mov?dl=0)
+* My final project was a Machine Learning project. We reconfigured a Connect 4 game written in **python** to use **OpenAI gym** to generate training data. We then used **Keras** to build the model in **TensorFlow** to train the smart computer, Ulima, to win. We used **pytest** to TDD the code. This is a video of our [Final Project Presentation](https://www.dropbox.com/s/x9ghds1lem5aiui/Final_Project.mov?dl=0).
+All my code is here on [GitHub](https://github.com/kate102) or [CodeWars](https://www.codewars.com/users/kate102)
 
 #### Soft Skills
 
 ##### Excellent Communicator
-For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic construction industry so I had to find ways to ensure that the trades worked in harmony and that everyone knew what everyone else was doing and when. I introduced whiteboards, `Asana` project managment app and made lots of tea.
+For 102 Interiors I managed teams of up to 20 contractors on any one site. Meetings are an anathema in the domestic construction industry so I had to find ways to ensure that the trades worked in harmony and that everyone knew what everyone else was doing and when. I introduced whiteboards, **Asana** project managment app and made lots of tea.
 
 ##### Analytical Thinker
 All of my roles have had an analytical element. I thrive on mathematical challenges from developing clean code to produce an informative and easy to read data analysis report to determining the most efficient flow of subterranean waste pipes in a kitchen development.
@@ -73,18 +72,18 @@ I single handedly created an award winning bespoke kitchen design and build comp
 
 #### Financial Times Information - Senior Programmer Sept 1997 – March 2001
 • Mid - Senior Programmer
-• Primarily using `C++`, `SQL` and `Perl` scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyze to generate reports.
+• Primarily using **C++**, **SQL** and **Perl** scripting, I wrote programs to receive financial data from worldwide sources, parse and store this data. Manipulate and analyze to generate reports.
 • In addition I was involved in system design and client meetings, systems testing and implementation.
 
 #### fidessa (formerly royalblue) – Senior Programmer Sept 1995 – Sept 1997
 • Mid-Level programmer
 • Primarily writing bond and equity trading systems for the London financial markets, 
-• Programming in `C`, `C++`, `smalltalk`, `SQL`, data manipulation, including Front End and Back End development
+• Programming in **C**, **C++**, **smalltalk**, **SQL**, data manipulation, including Front End and Back End development
 
 #### Telecommunications & Management Systems – Senior Programmer Sept 1993 – Sept 1995
 • Junior programmer
 • Primarily writing bond and equity trading systems for the London financial markets
-• Programming in `C` and `C++`
+• Programming in **C** and **C++**
 
 ### Interests
 - Skiing - Snow & Water.
