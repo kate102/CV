@@ -18,7 +18,8 @@
 
 </div>
 
-* Recently completed full stack development course with [Makers Academy](https://makers.tech/)
+* Front end developer with [Deloitte Digital] from June 2019 (https://www2.deloitte.com/uk/en/pages/technology/solutions/deloitte-digital.html)
+* Completed full stack development course with [Makers Academy] in 2019 (https://makers.tech/)
 * BSc.in Maths & Computing and MSc. in Computing
 * Several years as a professional programmer writing bond and equity trading systems
 * Director and lead designer of design and build company [102 Interiors London](http://www.102interiors.co.uk/).
